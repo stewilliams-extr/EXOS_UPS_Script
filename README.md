@@ -15,4 +15,5 @@ load script exos_ups.py
 configure upm profile powerscript maximum execution-time 120
 create upm timer pwtime
 configure upm timer pwtime profile powerscript
-configure upm timer pwtime after 30 every 300```
+configure upm timer pwtime after 30 every 300
+```
