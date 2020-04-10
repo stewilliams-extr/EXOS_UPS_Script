@@ -3,6 +3,7 @@ This script runs on an EXOS switch, and will poll a Synology NAS via SNMP to che
 
 
 * [EXOS UPS Script](exos_ups.py)
+* EXOS 30.6+
 
 
 Switch UPM script and timer config.  It will run every 5 minutes.
